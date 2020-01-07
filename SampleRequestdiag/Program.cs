@@ -168,7 +168,7 @@ namespace SampleRequestdiag
         private static string m_szDatabaseName = "dbrequestdiagdemo";
         private static string m_szCollectionName = "crequestdiagdemo";
         private static string m_szAccountURL = "https://testmigrationtool.documents.azure.com:443/";
-        private static string m_szAccountKey = "56QXkKOyhxgKCcdhe5ybT5VQYsjcoDJNHF8VgA5V7Mjtw2xOwAvCmzBqRHQUsdsQ26WlpRe6b6eBjiwH9FG2qw==";
+        private static string m_szAccountKey = "input database account key";
         private static DocumentClient m_DC = null;
         static void Main(string[] args)
         {
