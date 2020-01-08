@@ -34,6 +34,7 @@ namespace SampleRequestdiag
         private static string m_szCollectionName = "crequestdiagdemo";
         private static string m_szAccountURL = "https://testmigrationtool.documents.azure.com:443/";
         private static string m_szAccountKey = "input database account key";
+        //adding comment
         private static DocumentClient m_DC = null;
         static void Main(string[] args)
         {
